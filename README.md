@@ -6,7 +6,7 @@ In the future, I want to start another degree in Computer Science.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * ✉️  You can contact me at [leonardocsbloise@gmail.com](mailto:leonardocsbloise@gmail.com)
-* 🧠  I'm learning Java and Spring Framework.
+* 🧠  I'm learning Java and Android Development.
 
 ### Skills
 
