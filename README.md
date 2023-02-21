@@ -1,15 +1,13 @@
 Hi 👋 My name is Leonardo Bloise
 ================================
 
-I've been learning to code for 6 six years. I started with C, HTML, CSS and Javascript on High School. Then, when I was 18, I enrolled at UNIRIO to study Biology. I worked as a Web Developer from July, 2020 to May, 2022. Nowadays, I use computational tools to analyze biological data, automatize process related to it and I'm very close to finish my degree on biology.
-In the future, I want to start another degree in Computer Science.
+I've been learning to code for 6 six years. I started with C, HTML, CSS and Javascript on High School. Then, when I was 18, I enrolled at UNIRIO to study Biology. I worked as a Web Developer from July, 2020 to May, 2022. Also, I have used computational tools to analyze biological data and automatize process related to it.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil.
 * ✉️  You can contact me at [leonardocsbloise@gmail.com](mailto:leonardocsbloise@gmail.com)
-* 🧠  I'm learning Web Development.
+* 🧠  I'm learning Web Development and Mobile Development.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
