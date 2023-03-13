@@ -3,10 +3,10 @@
     <img src="./assets/hot_beverage.gif">
 </h1>
 <img src="./assets/jumping.gif" align="right">
-I am a Full-Stack Developer working mainly on Web projects. I've started to code in 2016 and got my first job at it on 2020. Since then, I've worked with the most popular programming languages and frameworks, such as php with laravel and codeigniter, javascript with next.js, angular and react, c, c#, python with django, sql and so on. Nowadays, I am focusing my studies in Back-End and Development and System Analysis at Estácio. Trying to get a deep understanding about back-end and use it to solve problems. It's not an easy task, but I'm doing it one step at a time. I also have worked with biology data manipulation, health insurance and producing softwares related to data manipulation.
+I am a Full-Stack Developer working mainly on Web projects. I've started to code in 2016 and got my first job at it on 2020. Since then, I've worked with the most popular programming languages and frameworks, such as php with laravel and codeigniter, javascript with next.js, angular and react, c, c#, python with django, sql and so on. Nowadays, I am focusing my studies in Back-End and Development and System Analysis at Estácio. I also have worked with biology data manipulation, health insurance and producing softwares related to data manipulation.
 <br><br>
 <div align="center">
-    <h3> <img src="./assets/rocket.gif"> My main goal is to finish my degree and get more experience at solving problems related to technology. </h3>
+    <h3> <img src="./assets/rocket.gif"> My main goal is get more experience at solving problems related to technology. </h3>
 </div>
 <div align="center">
     <h3> Techs I'm confortable to work with </h3><br>
