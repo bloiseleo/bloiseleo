@@ -1,14 +1,26 @@
-<h1 align="center">Hi, everyone <img src="./assets/hot_beverage.gif"> </h1>
-<p>I am a Full-Stack Developer working mainly on Web projects. I've started to code in 2016 and got my first job at it on 2020. Since then, I've worked with the most popular programming languages and frameworks, such as php with laravel, javascript with angular and react, sql and so on. Nowadays, I work at Intelitrader maintaing and evolving software that aims to solve financial problems and I'm focusing my studies in Back-End and Development and System Analysis at Estácio. I also have worked with biology data manipulation, health insurance and producing softwares related to data manipulation. </p>
-<h2>Goals 🎯</h2>
-<ul>
-    <li>Always keep learning!</li>
-    <li>Contribute more to Open Source community.</li>
-    <li>Create my own programming language!</li>
-    <li>Finish my degree 😺</li> 
-</ul>
-<h2> Contact Me </h2>
-<ul>
-    <li> 📨 Email: leonardocsbloise@gmail.com </li>
-    <li> 📳 Cellphone: +55 (21) 96771-6224 </li>
-</ul>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Desenvolvedor Full-Stack atuando principalmente em projetos Web utlizando ASP.NET e React JS. Comecei a desenvolver em  2016 e consegui minha primeira oportunidade em 2020. Desde então, já trabalhei com PHP, Laravel, Javascript, Angular, React, Next e PostgreSQL. Atualmente, trabalho na Intelitrader atuando no time de produtos financeiros
+</p>
+
+<p align="left">
+  🦄 Linguagens: C#, JavaScript, TypeScript, PHP, SQL
+</p>
+
+<p align="left">
+  💼 Ferramentas: PostgreSQL, SQL Server, Git, Docker, Azure, PowerShell, Bash
+</p>
+
+<p>
+   ✌️ Interesses: Programação de Baixo Nível </p>
+<p>
+   🎓 Aprendendo: Sistemas Operacionais e C++.
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leonardocsbloise@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bloiseleo/" alt="LinkedIn"/></a>
+</p>
