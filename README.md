@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#, JavaScript, TypeScript, PHP, SQL
+  🦄 Linguagens: C#, JavaScript, TypeScript, React, Angular, PHP, SQL
 </p>
 
 <p align="left">
