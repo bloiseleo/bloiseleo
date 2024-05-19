@@ -15,7 +15,7 @@
 <p>
    ✌️ Interesses: Programação de Baixo Nível </p>
 <p>
-   🎓 Aprendendo: Sistemas Operacionais e C++.
+   🎓 Aprendendo: Sistemas Operacionais, C++ e ASP.NET. 
 </p>
 
 <p align="left">
