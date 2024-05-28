@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#, JavaScript, TypeScript, React, Angular, PHP, SQL
+  🦄 Linguagens: C#, TypeScript, React, React Native, SQL
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 <p>
    ✌️ Interesses: Programação de Baixo Nível </p>
 <p>
-   🎓 Aprendendo: Sistemas Operacionais, C++ e ASP.NET. 
+   🎓 Aprendendo: ASP.NET e Sistemas Operacionais
 </p>
 
 <p align="left">
