@@ -13,9 +13,7 @@
 </p>
 
 <p>
-   ✌️ Interesses: Programação de Baixo Nível </p>
-<p>
-   🎓 Aprendendo: Spring Boot e Sistemas Operacionais
+   ✌️ Interesses: Programação de Baixo Nível 
 </p>
 
 <p align="left">
