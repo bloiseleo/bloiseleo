@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Desenvolvedor Full-Stack atuando principalmente em projetos Web utlizando Java, C# e React JS. Comecei a desenvolver em  2016 e consegui minha primeira oportunidade em 2020. Desde então, já trabalhei com PHP, Laravel, Javascript, Angular, React, Next e PostgreSQL. Atualmente, trabalho na Intelitrader atuando no time de produtos financeiros
+  Desenvolvedor Full-Stack atuando principalmente em projetos Web utlizando C# e React JS. Comecei a desenvolver em  2016 e consegui minha primeira oportunidade em 2020. Desde então, já trabalhei com PHP, Laravel, Javascript, Angular, React, Next e PostgreSQL. Atualmente, trabalho na Intelitrader atuando no time de produtos financeiros
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, C#, TypeScript, React, React Native, SQL
+  🦄 Linguagens: C#, TypeScript, React, React Native, SQL
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-   ✌️ Interesses: Programação de Baixo Nível 
+   ✌️ Interesses: Programação Mobile
 </p>
 
 <p align="left">
