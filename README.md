@@ -5,12 +5,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas que trabalho hoje: Microsoft Azure, Git, React, TypeScript, C#, ASP.NET, PowerShell<br>
+  💼 Ferramentas que trabalho hoje: Microsoft Azure, Git, React, TypeScript, C#, ASP.NET, PowerShell, Docker<br>
   🦄 Com o que já atuei: Java, Kotlin, PHP, JavaScript, AWS, C#, TypeScript, React, Next.JS, React Native, Oracle SQL, My SQL, Git, Docker, Azure, Bash, Power Shell
-</p>
-
-<p align="left">
-  💼 Ferramentas: PostgreSQL, SQL Server, Git, Docker, Azure, PowerShell, Bash
 </p>
 
 <p align="left">
